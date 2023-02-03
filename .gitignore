@@ -1,1 +1,6 @@
 env
+__pycache__
+audio_asset
+video_asset
+.env
+
